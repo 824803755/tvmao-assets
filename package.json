@@ -1,0 +1,12 @@
+{
+  "name": "tvmao-assets",
+  "version": "1.0.0",
+  "description": "tvmao.cc theme static assets (css/js/images)",
+  "files": [
+    "css",
+    "js",
+    "images"
+  ],
+  "license": "UNLICENSED",
+  "private": false
+}
